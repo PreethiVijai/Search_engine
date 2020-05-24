@@ -1,3 +1,11 @@
+Basics of search engine
+</br>
+
+https://medium.com/@deangelaneves/how-to-build-a-search-engine-from-scratch-in-python-part-1-96eb240f9ecb
+</br>
+https://anvil.works/blog/how-to-build-a-search-engine
+
+
 Graph based search – links:
 <br />
 https://neo4j.com/blog/enterprise-graph-based-search/
